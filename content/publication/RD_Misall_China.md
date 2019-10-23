@@ -25,7 +25,7 @@ China’s R&D distortions actually increase productivity by 5 percent in the
 Chinese economy, because they partially cancel out the effect of output
 distortions."
 
-url_pdf: 'files/RD_Misall_China.pdf'
+url_pdf: 'RD_Misall_China.pdf'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
