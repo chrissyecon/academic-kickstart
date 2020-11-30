@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in economics at Princeton University. I am available for interviews through the American Economic Association and the European Job Market Meetings. Other employers can feel free to email me directly.
+I am a PhD candidate in economics at Princeton University. I am available for interviews through the American Economic Association and the European Job Market Meetings. Others can contact me directly via email.
