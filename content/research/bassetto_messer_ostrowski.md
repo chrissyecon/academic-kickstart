@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Forecasting inﬂation and the Great Recession"
+title: "Forecasting Inﬂation and the Great Recession"
 subtitle: ""
 summary: ""
 authors: ""
